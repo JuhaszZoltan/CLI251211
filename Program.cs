@@ -1,7 +1,6 @@
 ﻿const string ResourcePath = "..\\..\\..\\data\\helsinki.txt";
 const string OutputPath = "..\\..\\..\\data\\helsinki2.txt";
 
-
 List<Pontszerzo> magyarok = [];
 
 using StreamReader sr = new(ResourcePath);
